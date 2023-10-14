@@ -7,7 +7,7 @@ about:
   image-width: 20em
   links:
     - icon: file-pdf
-      text: Resume
+      text: CV
       href: "info/David Porter CV.pdf"
     - icon: envelope
       text: Email
