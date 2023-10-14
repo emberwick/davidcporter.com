@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "David C. Porter"
+  page-footer:
+    left: "Made with [Quarto](https://quarto.org/)"
+  navbar:
+    pinned: true
+    search: false
+    right:
+      - href: index.qmd
+        text: Home
+      - teaching.qmd
+      - research.qmd
+      - href: https://www.manchustudiesgroup.org/introduction-to-manchu-in-21-lessons/
+        text: Manchu Study Resources
+
+format:
+  html:
+    theme: Zephyr
+    css: styles.css
+    toc: false
+    page-layout: full
+
+editor: visual
+
+# setup help: https://ucsb-meds.github.io/creating-quarto-websites/

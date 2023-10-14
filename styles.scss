@@ -1,0 +1,58 @@
+/*-- useful: https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide*/
+/*-- colors: https://flatcolors.net/palette/ */
+/*-- scss:defaults --*/
+
+// Colors
+$navy: #0F3057;
+$blue: #00587A;
+$teal: #008891;
+$taupe: #CDCBA6;
+$gray1: #E7E7DE;
+$cream: #FDFBF7;
+$gray: #64605f;
+$bs-black: #000;
+$funk-teal: #0C545C;
+$funk-taupe: #D9BBAE;
+$funk-lightpink: #F3C9BF;
+$funk-peach: #FE8A71;
+$funk-red: #FE6860;
+$flatly-navy: #2C3E50;
+$flatly-teal: #18BC9C;
+$flatly-blue: #3498DB;
+$flatly-red: #E74C3C;
+
+// Base document colors
+$navbar-bg: $flatly-navy; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $flatly-teal; // highlight color when hovering over navbar links
+$body-bg: $cream; // page background 
+$body-color: $bs-black; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $flatly-teal; // hyperlinks 
+
+// Inline code
+$code-bg: $gray1; // inline code background color
+$code-color: $flatly-navy; // inline code text color
+
+// Code blocks
+$code-block-bg: $gray1; // code block background color
+
+/*-- scss:rules --*/
+
+/*-- scss:defaults --*/
+
+h1, h2, h3 {
+  color: $flatly-navy;
+}
+
+.title {
+  color: $flatly-navy;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.highlight-text {
+  color: $flatly-blue;
+}

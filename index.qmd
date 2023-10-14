@@ -1,0 +1,31 @@
+---
+title: "David Campbell Porter"
+image: "info/Porter author photo.jpg"
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: file-pdf
+      text: Resume
+      href: "info/David Porter CV.pdf"
+    - icon: envelope
+      text: Email
+      href: mailto:david.porter@mcgill.ca
+---
+
+# About me
+
+I am a historian of empire, state-making, and identity in Qing and early Republican China. My first book, *Slaves of the Emperor: Service, Privilege, and Status in the Qing Eight Banners* (Columbia, 2024), explores the history of one of the key institutions of the Manchu conquest of China – the Eight Banner System. 
+
+My current book project is a study of translation and translators and their role in the Qing state, in which I aim to explain the critical role that translation played in the Qing state, from the routine use of bilingual documents in everyday administration to the role of Inner Asian languages in frontier expansion and governance, and to upend the belief that translators were a marginalized group relative to graduates of the civil exam system. 
+
+# Education
+
+**Harvard University** | Cambridge, MA
+
+PhD in History and East Asian Languages | May 2018
+
+**Yale University** | New Haven, CT
+
+B.A. in History | May 2010
