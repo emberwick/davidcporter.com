@@ -8,7 +8,7 @@ about:
   links:
     - icon: file-pdf
       text: CV
-      href: "info/David Porter CV.pdf"
+      href: info/DavidPorterCV.pdf
     - icon: envelope
       text: Email
       href: mailto:david.porter@mcgill.ca
