@@ -4,6 +4,7 @@ project:
   
 resources:
   - CNAME
+  - info/DavidPorterCV.pdf
 
 website:
   title: "David C. Porter"
