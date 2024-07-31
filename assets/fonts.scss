@@ -2,11 +2,10 @@
 
 // Get fonts
 @import url('https://fonts.googleapis.com/css2?family=Commissioner&family=Fraunces&family=Inconsolata&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Source+Sans+3&display=swap');
 
 // set fonts
 $font-family-sans-serif: "Source Sans Pro";
-$font-family-monospace: Inconsolata;
 
 $headings-font-family: "Crimson Text" !default;
 $headings-font-weight: 400 !default;
@@ -19,6 +18,7 @@ $headings-font-weight: 400 !default;
 
 main, p{
   font-size: 1.1rem !important;
+  font-family: $font-family-sans-serif;
 }
 
 .callout.callout-style-default .callout-body {
