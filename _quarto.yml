@@ -1,11 +1,10 @@
 project:
   type: website
-  output-dir: docs
   
 resources:
-  - CNAME
-  - info/DavidPorterCV.pdf
-
+  - "assets/*"
+  - "files/*"
+  
 website:
   title: "David C. Porter"
   page-footer:
@@ -18,13 +17,14 @@ website:
         text: Home
       - teaching.qmd
       - research.qmd
+      - href: files/DavidPorterCV2024.pdf
+        text: CV
       - href: https://www.manchustudiesgroup.org/introduction-to-manchu-in-21-lessons/
         text: Manchu Study Resources
 
 format:
   html:
-    theme: Zephyr
-    css: styles.css
+    theme: [litera, assets/fonts.scss, assets/styles.scss]
     toc: false
     page-layout: full
 

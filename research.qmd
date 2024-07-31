@@ -8,29 +8,33 @@ title: "Research"
 
 ### Monographs
 
-:::: {layout="[20,80]"}
-
+::: {layout="[20,80]"}
 ::: {#first-column}
-
-![](info/cover.jpg){width=3in}
+![](files/cover.jpg){width="3in"}
 
 [Buy on Amazon](https://www.amazon.com/Slaves-Emperor-Service-Privilege-Banners/dp/0231212771/ref=sr_1_1?crid=2LSQC8S1U86L&keywords=david+porter+slaves+of+the+emperor&qid=1697304752&sprefix=david+porter+slav%2Caps%2C92&sr=8-1)
-
 :::
 
 ::: {#second-column}
+**Slaves of the Emperor: Service, Privilege, and Status in the Qing Eight Banners** (Columbia University Press, 2024)
 
-Forthcoming with *Columbia University Press* – **Slaves of the Emperor: Service, Privilege, and Status in the Qing Eight Banners** (release date: December, 2023)
+<p style="margin-left: 40px">
 
-<p style="margin-left: 40px"><br>China’s last imperial dynasty governed a vast and culturally diverse territory, encompassing a wide range of local political systems and regional elites. But the Qing empire was built and held together by a single imperial elite: the more than two million members of the hereditary Eight Banner system who were at the core of both the military and the bureaucracy. The banner population was multiethnic, linked by shared membership in a clearly demarcated status group defined in law and administrative practice. Banner people were bound to the court by an exchange of loyal service for institutionalized privilege, a relationship symbolically conceptualized as one of slave to master.</p>
+<br>China’s last imperial dynasty governed a vast and culturally diverse territory, encompassing a wide range of local political systems and regional elites. But the Qing empire was built and held together by a single imperial elite: the more than two million members of the hereditary Eight Banner system who were at the core of both the military and the bureaucracy. The banner population was multiethnic, linked by shared membership in a clearly demarcated status group defined in law and administrative practice. Banner people were bound to the court by an exchange of loyal service for institutionalized privilege, a relationship symbolically conceptualized as one of slave to master.
+
+</p>
+
 <br>
-<p style="margin-left: 40px">*Slaves of the Emperor* explores the Qing approach to one of the fundamental challenges of early modern state-building: how to develop an effective bureaucracy with increasing administrative capacity to govern a growing polity while retaining the loyalty of the ruling family’s most important supporters. David C. Porter traces how the banner system created a service elite through its processes of incorporating new members, its employment of bannermen as technical specialists, its imposition of service obligations on women as well as men, and its response to fiscal and ideological challenges. Placing Qing practices in comparative perspective, he uncovers crucial parallels to similar institutions in Tokugawa Japan, imperial Russia, and the Ottoman Empire. Slaves of the Emperor provides a new framework for understanding the structure and function of elites both in China and elsewhere in Eurasia in the early modern period.</p> 
 
+<p style="margin-left: 40px">
 
+*Slaves of the Emperor* explores the Qing approach to one of the fundamental challenges of early modern state-building: how to develop an effective bureaucracy with increasing administrative capacity to govern a growing polity while retaining the loyalty of the ruling family’s most important supporters. David C. Porter traces how the banner system created a service elite through its processes of incorporating new members, its employment of bannermen as technical specialists, its imposition of service obligations on women as well as men, and its response to fiscal and ideological challenges. Placing Qing practices in comparative perspective, he uncovers crucial parallels to similar institutions in Tokugawa Japan, imperial Russia, and the Ottoman Empire. Slaves of the Emperor provides a new framework for understanding the structure and function of elites both in China and elsewhere in Eurasia in the early modern period.
 
+<br>*Shortlisted for the Wallace K. Ferguson Prize of the Canadian Historical Association*
+
+</p>
 :::
-
-::::
+:::
 
 ### Peer-reviewed articles
 
@@ -40,7 +44,7 @@ Forthcoming with *Columbia University Press* – **Slaves of the Emperor: Servic
 
 ### Book reviews
 
-Söderblom Saarela, Mårten. [The Early Modern Travels of Manchu: A Script and Its Study in East Asia and Europe](https://doi.org/10.1017/S0041977X2100029X). Philadelphia: University of Pennsylvania Press, 2020. *Bulletin of the School of Oriental and African Studies* 84.1 (April 2021), pp. 191-193. 
+Söderblom Saarela, Mårten. [The Early Modern Travels of Manchu: A Script and Its Study in East Asia and Europe](https://doi.org/10.1017/S0041977X2100029X). Philadelphia: University of Pennsylvania Press, 2020. *Bulletin of the School of Oriental and African Studies* 84.1 (April 2021), pp. 191-193.
 
 Kim, Loretta. [Ethnic Chrysalis: China’s Orochen People and the Legacy of Qing Borderland Administration](https://doi.org/10.1163/22105018-12340142). Cambridge, MA: Harvard University Asia Center, 2019. *Inner Asia* 22.1 (April 2020), pp. 155-157.
 

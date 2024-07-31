@@ -1,0 +1,40 @@
+/*-- useful: https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide*/
+/*-- colors: https://flatcolors.net/palette/ */
+/*-- scss:defaults --*/
+
+// Colors
+$theme-darkblue: #211C5E;
+$theme-cardinal: #BC2226;
+$theme-sun: #FEDC41;
+$theme-lightblue: #0752A5;
+$theme-white: #F7F8F9;
+$black:    #000000 !default;
+$gray-700: #495057 !default;
+
+// Base document colors
+$navbar-bg: $theme-darkblue; // navbar
+$navbar-fg: $theme-white; // navbar foreground elements
+$navbar-hl: $theme-sun; // highlight color when hovering over navbar links
+$body-bg: $theme-white; // page background 
+$body-color: $gray-700; // page text 
+$footer-bg: $theme-white; // footer 
+$link-color: $theme-cardinal; // hyperlinks 
+
+// modify color map 
+$primary: $theme-darkblue;
+$secondary: $theme-cardinal;
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  color: $theme-cardinal;
+}
+
+h3, h4 {
+  color: $theme-cardinal;
+}
+
+.highlight {
+  color: $theme-cardinal;
+  font-weight: bold;
+}
