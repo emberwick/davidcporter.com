@@ -1,6 +1,7 @@
 ---
 title: "David Campbell Porter"
 image: "files/Porter author photo.jpg"
+description: McGill University
 about: 
   template: trestles
   image-shape: round
